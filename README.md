@@ -316,9 +316,6 @@ Wireframe 3 – Movie Details Screen: Shows the selected movie’s poster, title
 
 These wireframes will guide the development of the final interface.
 
-11. Team Members and Responsibilities
-
-Team Name: CineVibe Developers
 
 11. Team Members and Responsibilities
 
